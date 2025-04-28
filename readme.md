@@ -7,4 +7,4 @@ An excercise in unity and exploration of different aspects for the implementatio
 - Scenes with downloaded assets
 - Protagonist concept art
 
-  /Assets/Art/hero.png
+  ![The concept art for the hero of the game](/Assets/Art/hero.png)
